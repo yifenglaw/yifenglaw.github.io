@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a803b8e-eafa-474e-91ae-e0032d1d60da" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-home-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tm-home-img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tm-img-310x180-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tm-img-310x180-1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637009755477</updated>
       <workItem from="1637009757589" duration="2012000" />
+      <workItem from="1637011931896" duration="109000" />
     </task>
     <servers />
   </component>
